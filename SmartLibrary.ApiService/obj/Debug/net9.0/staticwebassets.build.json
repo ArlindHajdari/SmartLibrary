@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QmT0PZNT1pyQ5XNcOYPFlXLWWpB4hcjZLWBR+mKJKUk=",
+  "Source": "SmartLibrary.ApiService",
+  "BasePath": "_content/SmartLibrary.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

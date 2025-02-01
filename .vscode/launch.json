@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: SmartLibrary.AppHost [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/SmartLibrary.AppHost/SmartLibrary.AppHost.csproj"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/bin/Debug/net9.0/SmartLibrary.ServiceDefaults.deps.json
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/bin/Debug/net9.0/SmartLibrary.ServiceDefaults.dll
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/bin/Debug/net9.0/SmartLibrary.ServiceDefaults.pdb
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.AssemblyInfo.cs
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.dll
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/refint/SmartLibrary.ServiceDefaults.dll
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/SmartLibrary.ServiceDefaults.pdb
+/Users/arlindhajdari/Documents/GIT/SmartLibrary/SmartLibrary/SmartLibrary.ServiceDefaults/obj/Debug/net9.0/ref/SmartLibrary.ServiceDefaults.dll
