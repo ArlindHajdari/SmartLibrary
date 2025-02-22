@@ -24,7 +24,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartLibrary.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4450f3e1bc0fd12d3352102ba1880b7a5989492")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartLibrary.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartLibrary.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
